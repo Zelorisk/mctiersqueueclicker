@@ -3,3 +3,122 @@
 2025-12-25 05:13:57,338 - INFO - Starting to monitor for queue button...
 2025-12-25 05:13:57,338 - INFO - Looking for keywords: ['join queue', 'queue', 'join', 'enter queue']
 2025-12-25 05:13:57,338 - INFO - Press Ctrl+C to stop
+2025-12-25 05:19:57,395 - INFO - Discord Queue Clicker initialized
+2025-12-25 05:19:57,395 - INFO - Check interval: 0.5s, Confidence: 0.7
+2025-12-25 05:19:57,396 - INFO - Starting to monitor for queue button...
+2025-12-25 05:19:57,396 - INFO - Looking for keywords: ['join queue', 'queue', 'join', 'enter queue']
+2025-12-25 05:19:57,396 - INFO - Press Ctrl+C to stop
+2025-12-25 05:19:57,870 - INFO - Clicking button at (1100, 1536)
+2025-12-25 05:19:58,029 - INFO - Button clicked successfully!
+2025-12-25 05:19:58,029 - INFO - Queue button found and clicked!
+2025-12-25 05:20:27,980 - INFO - Discord Queue Clicker initialized
+2025-12-25 05:20:27,983 - INFO - Check interval: 0.5s, Confidence: 0.7
+2025-12-25 05:20:27,983 - INFO - Starting to monitor for queue button...
+2025-12-25 05:20:27,983 - INFO - Looking for keywords: ['join queue', 'queue', 'join', 'enter queue']
+2025-12-25 05:20:27,983 - INFO - Press Ctrl+C to stop
+2025-12-25 05:20:28,379 - INFO - Clicking button at (1100, 1536)
+2025-12-25 05:20:28,512 - INFO - Button clicked successfully!
+2025-12-25 05:20:28,512 - INFO - Queue button found and clicked!
+2025-12-25 05:20:50,128 - INFO - Discord Queue Clicker initialized
+2025-12-25 05:20:50,130 - INFO - Check interval: 0.5s, Confidence: 0.7
+2025-12-25 05:20:50,130 - INFO - Starting to monitor for queue button...
+2025-12-25 05:20:50,131 - INFO - Looking for keywords: ['join queue', 'queue', 'join', 'enter queue']
+2025-12-25 05:20:50,131 - INFO - Press Ctrl+C to stop
+2025-12-25 05:20:50,522 - INFO - Clicking button at (1100, 1536)
+2025-12-25 05:20:50,653 - INFO - Button clicked successfully!
+2025-12-25 05:20:50,653 - INFO - Queue button found and clicked!
+2025-12-25 05:21:04,661 - INFO - Discord Queue Clicker initialized
+2025-12-25 05:21:04,662 - INFO - Check interval: 0.5s, Confidence: 0.7
+2025-12-25 05:21:04,662 - INFO - Starting to monitor for queue button...
+2025-12-25 05:21:04,662 - INFO - Looking for keywords: ['join queue', 'queue', 'join', 'enter queue']
+2025-12-25 05:21:04,662 - INFO - Press Ctrl+C to stop
+2025-12-25 05:21:05,045 - INFO - Clicking button at (1100, 1536)
+2025-12-25 05:21:05,177 - INFO - Button clicked successfully!
+2025-12-25 05:21:05,177 - INFO - Queue button found and clicked!
+2025-12-25 05:24:19,482 - INFO - Discord Queue Clicker initialized
+2025-12-25 05:24:19,483 - INFO - Check interval: 0.5s, Confidence: 0.7
+2025-12-25 05:24:19,484 - INFO - Screen size: Size(width=1352, height=878)
+2025-12-25 05:24:19,484 - INFO - Starting to monitor for queue button...
+2025-12-25 05:24:19,484 - INFO - Looking for keywords: ['join queue', 'queue', 'join', 'enter queue']
+2025-12-25 05:24:19,484 - INFO - Press Ctrl+C to stop
+2025-12-25 05:24:19,913 - INFO - Clicking button at (1100, 1536)
+2025-12-25 05:24:21,159 - INFO - Button clicked successfully!
+2025-12-25 05:24:21,159 - INFO - Queue button found and clicked!
+2025-12-25 05:24:41,342 - INFO - Discord Queue Clicker initialized
+2025-12-25 05:24:41,343 - INFO - Check interval: 0.5s, Confidence: 0.7
+2025-12-25 05:24:41,344 - INFO - Screen size: Size(width=1352, height=878)
+2025-12-25 05:24:41,344 - INFO - Starting to monitor for queue button...
+2025-12-25 05:24:41,344 - INFO - Looking for keywords: ['join queue', 'queue', 'join', 'enter queue']
+2025-12-25 05:24:41,344 - INFO - Press Ctrl+C to stop
+2025-12-25 05:24:41,713 - INFO - Clicking button at (1100, 1536)
+2025-12-25 05:24:42,962 - INFO - Button clicked successfully!
+2025-12-25 05:24:42,962 - INFO - Queue button found and clicked!
+2025-12-25 05:26:22,923 - INFO - Discord Queue Clicker initialized
+2025-12-25 05:26:22,925 - INFO - Check interval: 0.5s, Confidence: 0.7
+2025-12-25 05:26:22,925 - INFO - Screen size: Size(width=1352, height=878)
+2025-12-25 05:26:22,925 - INFO - Debug mode: True
+2025-12-25 05:26:22,925 - INFO - Starting to monitor for queue button...
+2025-12-25 05:26:22,926 - INFO - Looking for keywords: ['join queue', 'queue', 'join', 'enter queue']
+2025-12-25 05:26:22,926 - INFO - Press Ctrl+C to stop
+2025-12-25 05:26:23,231 - INFO - Debug image saved to debug_detection.png
+2025-12-25 05:26:23,438 - INFO - Button region: x=1008, y=1504, w=184, h=64
+2025-12-25 05:26:23,438 - INFO - Clicking button at (1100, 1536)
+2025-12-25 05:26:23,448 - INFO - Current mouse position: Point(x=489, y=470)
+2025-12-25 05:26:24,684 - INFO - Button clicked successfully!
+2025-12-25 05:26:24,684 - INFO - Queue button found and clicked!
+2025-12-25 05:29:02,872 - INFO - Discord Queue Clicker initialized
+2025-12-25 05:29:02,873 - INFO - Check interval: 0.5s, Confidence: 0.7
+2025-12-25 05:29:02,874 - INFO - Screen size: Size(width=1352, height=878)
+2025-12-25 05:29:02,874 - INFO - Debug mode: True
+2025-12-25 05:29:02,874 - INFO - Starting to monitor for queue button...
+2025-12-25 05:29:02,874 - INFO - Looking for keywords: ['join queue', 'queue', 'join', 'enter queue']
+2025-12-25 05:29:02,874 - INFO - Press Ctrl+C to stop
+2025-12-25 05:29:03,163 - INFO - Debug image saved to debug_detection.png
+2025-12-25 05:29:03,169 - INFO - OCR region saved: 1005,1501 to 1195,1571
+2025-12-25 05:29:03,317 - INFO - OCR detected text: 'join queue'
+2025-12-25 05:29:03,317 - INFO - Keyword 'join queue' matched!
+2025-12-25 05:29:03,317 - INFO - Button region: x=1010, y=1506, w=180, h=60
+2025-12-25 05:29:03,317 - INFO - Clicking button at (1100, 1536)
+2025-12-25 05:29:03,331 - INFO - Current mouse position: Point(x=950, y=627)
+2025-12-25 05:29:04,572 - INFO - Button clicked successfully!
+2025-12-25 05:29:04,573 - INFO - Queue button found and clicked!
+2025-12-25 05:32:40,765 - INFO - Discord Queue Clicker initialized
+2025-12-25 05:32:40,767 - INFO - Check interval: 0.5s, Confidence: 0.7
+2025-12-25 05:32:40,767 - INFO - Screen size: Size(width=1352, height=878)
+2025-12-25 05:32:40,767 - INFO - Debug mode: True
+2025-12-25 05:32:40,768 - INFO - Starting to monitor for queue button...
+2025-12-25 05:32:40,768 - INFO - Looking for keywords: ['join queue', 'queue', 'join', 'enter queue']
+2025-12-25 05:32:40,768 - INFO - Press Ctrl+C to stop
+2025-12-25 05:32:41,002 - INFO - Screenshot size: 2704x1756
+2025-12-25 05:32:41,002 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 05:32:41,002 - INFO - Scale factor detected: 0.5
+2025-12-25 05:32:41,068 - INFO - Debug image saved to debug_detection.png
+2025-12-25 05:32:41,075 - INFO - OCR region saved: 1005,1501 to 1195,1571
+2025-12-25 05:32:41,217 - INFO - OCR detected text: 'join queue'
+2025-12-25 05:32:41,217 - INFO - Keyword 'join queue' matched!
+2025-12-25 05:32:41,217 - INFO - Button region: x=1010, y=1506, w=180, h=60
+2025-12-25 05:32:41,217 - INFO - Scale factor: 0.5
+2025-12-25 05:32:41,217 - INFO - Scaled click position: (550, 768)
+2025-12-25 05:32:41,230 - INFO - Current mouse position: Point(x=787, y=609)
+2025-12-25 05:32:42,473 - INFO - Button clicked successfully!
+2025-12-25 05:32:42,473 - INFO - Queue button found and clicked!
+2025-12-25 05:33:43,047 - INFO - Discord Queue Clicker initialized
+2025-12-25 05:33:43,049 - INFO - Check interval: 0.5s, Confidence: 0.7
+2025-12-25 05:33:43,049 - INFO - Screen size: Size(width=1352, height=878)
+2025-12-25 05:33:43,049 - INFO - Debug mode: True
+2025-12-25 05:33:43,050 - INFO - Starting to monitor for queue button...
+2025-12-25 05:33:43,050 - INFO - Looking for keywords: ['join queue', 'queue', 'join', 'enter queue']
+2025-12-25 05:33:43,050 - INFO - Press Ctrl+C to stop
+2025-12-25 05:33:43,285 - INFO - Screenshot size: 2704x1756
+2025-12-25 05:33:43,285 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 05:33:43,285 - INFO - Scale factor detected: 0.5
+2025-12-25 05:33:43,350 - INFO - Debug image saved to debug_detection.png
+2025-12-25 05:33:43,357 - INFO - OCR region saved: 1005,1275 to 1195,1345
+2025-12-25 05:33:43,495 - INFO - OCR detected text: 'join queue'
+2025-12-25 05:33:43,495 - INFO - Keyword 'join queue' matched!
+2025-12-25 05:33:43,495 - INFO - Button region: x=1010, y=1280, w=180, h=60
+2025-12-25 05:33:43,495 - INFO - Scale factor: 0.5
+2025-12-25 05:33:43,495 - INFO - Scaled click position: (550, 655)
+2025-12-25 05:33:43,506 - INFO - Current mouse position: Point(x=763, y=609)
+2025-12-25 05:33:44,269 - INFO - Button clicked successfully!
+2025-12-25 05:33:44,269 - INFO - Queue button found and clicked!
