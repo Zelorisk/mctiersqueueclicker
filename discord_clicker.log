@@ -1,0 +1,5 @@
+2025-12-25 05:13:57,336 - INFO - Discord Queue Clicker initialized
+2025-12-25 05:13:57,338 - INFO - Check interval: 0.5s, Confidence: 0.7
+2025-12-25 05:13:57,338 - INFO - Starting to monitor for queue button...
+2025-12-25 05:13:57,338 - INFO - Looking for keywords: ['join queue', 'queue', 'join', 'enter queue']
+2025-12-25 05:13:57,338 - INFO - Press Ctrl+C to stop
