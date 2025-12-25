@@ -122,3 +122,2266 @@
 2025-12-25 05:33:43,506 - INFO - Current mouse position: Point(x=763, y=609)
 2025-12-25 05:33:44,269 - INFO - Button clicked successfully!
 2025-12-25 05:33:44,269 - INFO - Queue button found and clicked!
+2025-12-25 05:37:31,875 - INFO - Discord Queue Clicker initialized
+2025-12-25 05:37:31,876 - INFO - Check interval: 0.5s, Confidence: 0.7
+2025-12-25 05:37:31,877 - INFO - Screen size: Size(width=1352, height=878)
+2025-12-25 05:37:31,877 - INFO - Debug mode: True
+2025-12-25 05:37:31,877 - INFO - Starting to monitor for queue button...
+2025-12-25 05:37:31,877 - INFO - Looking for keywords: ['join queue', 'queue', 'join', 'enter queue']
+2025-12-25 05:37:31,877 - INFO - Press Ctrl+C to stop
+2025-12-25 05:37:32,172 - INFO - Screenshot size: 2704x1756
+2025-12-25 05:37:32,172 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 05:37:32,172 - INFO - Scale factor detected: 0.5
+2025-12-25 05:37:32,247 - INFO - Debug image saved to debug_detection.png
+2025-12-25 05:37:32,254 - INFO - OCR region saved: 1005,1049 to 1195,1119
+2025-12-25 05:37:32,402 - INFO - OCR detected text: 'join queue'
+2025-12-25 05:37:32,402 - INFO - Keyword 'join queue' matched!
+2025-12-25 05:37:32,402 - INFO - Button region: x=1010, y=1054, w=180, h=60
+2025-12-25 05:37:32,402 - INFO - Scale factor: 0.5
+2025-12-25 05:37:32,402 - INFO - Scaled click position: (550, 542)
+2025-12-25 05:37:32,418 - INFO - Current mouse position: Point(x=861, y=433)
+2025-12-25 05:37:33,195 - INFO - Button clicked successfully!
+2025-12-25 05:37:33,195 - INFO - Queue button found and clicked!
+2025-12-25 07:42:54,554 - INFO - Discord Queue Clicker initialized
+2025-12-25 07:42:54,556 - INFO - Check interval: 0.5s, Confidence: 0.7
+2025-12-25 07:42:54,556 - INFO - Screen size: Size(width=1352, height=878)
+2025-12-25 07:42:54,556 - INFO - Debug mode: True
+2025-12-25 07:42:54,556 - INFO - Starting to monitor for queue button...
+2025-12-25 07:42:54,557 - INFO - Looking for keywords: ['join queue', 'queue', 'join', 'enter queue']
+2025-12-25 07:42:54,557 - INFO - Press Ctrl+C to stop
+2025-12-25 07:42:54,811 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:42:54,812 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:42:54,812 - INFO - Scale factor detected: 0.5
+2025-12-25 07:42:55,538 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:42:55,538 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:42:55,538 - INFO - Scale factor detected: 0.5
+2025-12-25 07:42:56,280 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:42:56,280 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:42:56,280 - INFO - Scale factor detected: 0.5
+2025-12-25 07:42:57,016 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:42:57,017 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:42:57,017 - INFO - Scale factor detected: 0.5
+2025-12-25 07:42:57,740 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:42:57,741 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:42:57,741 - INFO - Scale factor detected: 0.5
+2025-12-25 07:42:58,491 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:42:58,491 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:42:58,491 - INFO - Scale factor detected: 0.5
+2025-12-25 07:42:59,233 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:42:59,233 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:42:59,233 - INFO - Scale factor detected: 0.5
+2025-12-25 07:42:59,962 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:42:59,962 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:42:59,962 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:00,691 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:00,691 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:00,691 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:01,414 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:01,415 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:01,415 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:02,147 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:02,147 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:02,147 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:02,885 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:02,885 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:02,885 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:03,663 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:03,665 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:03,666 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:04,426 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:04,426 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:04,426 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:05,161 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:05,161 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:05,161 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:05,899 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:05,899 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:05,899 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:06,635 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:06,636 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:06,636 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:07,372 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:07,372 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:07,372 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:08,118 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:08,118 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:08,118 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:08,858 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:08,858 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:08,858 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:09,582 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:09,582 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:09,582 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:10,321 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:10,323 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:10,323 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:11,081 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:11,081 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:11,081 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:11,822 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:11,822 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:11,822 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:12,557 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:12,557 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:12,557 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:13,300 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:13,300 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:13,300 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:14,041 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:14,041 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:14,041 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:14,771 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:14,772 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:14,772 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:15,505 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:15,505 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:15,505 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:16,247 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:16,247 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:16,247 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:16,987 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:16,987 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:16,987 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:17,727 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:17,727 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:17,727 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:18,471 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:18,472 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:18,472 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:19,213 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:19,213 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:19,213 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:19,951 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:19,952 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:19,952 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:20,690 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:20,690 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:20,690 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:21,441 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:21,441 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:21,441 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:22,183 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:22,183 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:22,183 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:22,915 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:22,915 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:22,915 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:23,644 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:23,644 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:23,645 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:24,379 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:24,379 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:24,379 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:25,121 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:25,121 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:25,121 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:25,843 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:25,843 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:25,843 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:26,589 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:26,590 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:26,590 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:27,332 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:27,332 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:27,332 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:28,058 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:28,058 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:28,058 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:28,804 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:28,804 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:28,804 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:29,545 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:29,545 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:29,545 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:30,287 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:30,287 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:30,287 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:31,026 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:31,026 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:31,026 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:31,763 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:31,763 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:31,763 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:32,498 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:32,498 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:32,498 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:33,240 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:33,240 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:33,240 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:33,976 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:33,976 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:33,976 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:34,714 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:34,714 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:34,714 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:35,464 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:35,465 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:35,465 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:36,217 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:36,217 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:36,217 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:36,954 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:36,954 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:36,954 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:37,689 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:37,689 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:37,689 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:38,421 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:38,421 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:38,421 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:39,162 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:39,163 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:39,163 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:39,893 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:39,893 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:39,893 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:40,629 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:40,629 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:40,629 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:41,364 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:41,364 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:41,364 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:42,106 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:42,106 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:42,106 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:42,831 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:42,831 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:42,831 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:43,565 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:43,565 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:43,565 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:44,309 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:44,309 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:44,309 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:45,042 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:45,043 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:45,043 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:45,770 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:45,770 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:45,770 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:46,499 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:46,499 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:46,499 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:47,236 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:47,237 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:47,237 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:47,972 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:47,972 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:47,972 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:48,703 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:48,703 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:48,703 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:49,442 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:49,442 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:49,442 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:50,178 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:50,178 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:50,178 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:50,919 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:50,919 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:50,919 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:51,641 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:51,641 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:51,641 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:52,383 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:52,383 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:52,383 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:53,119 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:53,119 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:53,119 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:53,853 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:53,853 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:53,853 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:54,584 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:54,584 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:54,584 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:55,326 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:55,326 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:55,326 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:56,058 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:56,058 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:56,058 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:56,785 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:56,785 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:56,785 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:57,505 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:57,506 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:57,506 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:58,245 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:58,245 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:58,245 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:58,984 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:58,984 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:58,984 - INFO - Scale factor detected: 0.5
+2025-12-25 07:43:59,712 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:43:59,712 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:43:59,712 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:00,449 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:00,449 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:00,449 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:01,183 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:01,183 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:01,183 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:01,918 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:01,918 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:01,918 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:02,656 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:02,656 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:02,656 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:03,405 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:03,405 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:03,405 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:04,149 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:04,149 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:04,149 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:04,887 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:04,887 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:04,887 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:05,619 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:05,619 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:05,619 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:06,339 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:06,339 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:06,339 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:07,077 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:07,077 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:07,077 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:07,810 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:07,810 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:07,810 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:08,554 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:08,554 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:08,554 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:09,293 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:09,293 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:09,293 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:10,034 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:10,035 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:10,035 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:10,773 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:10,773 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:10,773 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:11,508 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:11,508 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:11,508 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:12,237 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:12,238 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:12,238 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:12,976 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:12,976 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:12,976 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:13,713 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:13,714 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:13,714 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:14,453 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:14,453 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:14,453 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:15,195 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:15,195 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:15,195 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:15,927 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:15,927 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:15,927 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:16,664 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:16,664 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:16,664 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:17,401 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:17,401 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:17,401 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:18,131 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:18,132 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:18,132 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:18,869 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:18,870 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:18,870 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:19,606 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:19,606 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:19,606 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:20,343 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:20,343 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:20,343 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:21,079 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:21,079 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:21,079 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:21,819 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:21,819 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:21,819 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:22,557 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:22,557 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:22,557 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:23,298 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:23,299 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:23,299 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:24,036 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:24,036 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:24,036 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:24,765 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:24,765 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:24,765 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:25,498 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:25,499 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:25,499 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:26,231 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:26,231 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:26,231 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:26,961 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:26,961 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:26,961 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:27,687 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:27,687 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:27,687 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:28,415 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:28,415 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:28,415 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:29,152 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:29,152 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:29,152 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:29,887 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:29,887 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:29,887 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:30,622 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:30,622 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:30,622 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:31,363 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:31,363 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:31,363 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:32,102 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:32,102 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:32,102 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:32,832 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:32,832 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:32,832 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:33,567 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:33,567 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:33,567 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:34,293 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:34,293 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:34,293 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:35,036 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:35,036 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:35,036 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:35,765 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:35,766 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:35,766 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:36,486 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:36,486 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:36,486 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:37,216 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:37,216 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:37,216 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:37,956 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:37,956 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:37,956 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:38,691 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:38,691 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:38,691 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:39,423 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:39,423 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:39,423 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:40,163 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:40,163 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:40,163 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:40,905 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:40,905 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:40,905 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:41,645 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:41,645 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:41,645 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:42,382 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:42,382 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:42,382 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:43,111 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:43,111 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:43,111 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:43,848 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:43,848 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:43,848 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:44,582 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:44,583 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:44,583 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:45,317 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:45,317 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:45,317 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:46,048 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:46,048 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:46,048 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:46,778 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:46,778 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:46,778 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:47,509 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:47,509 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:47,509 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:48,250 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:48,250 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:48,250 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:48,966 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:48,966 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:48,966 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:49,699 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:49,699 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:49,699 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:50,431 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:50,431 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:50,431 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:51,177 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:51,177 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:51,177 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:51,920 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:51,920 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:51,920 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:52,646 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:52,646 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:52,646 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:53,367 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:53,367 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:53,367 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:54,110 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:54,110 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:54,110 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:54,855 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:54,855 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:54,855 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:55,605 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:55,605 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:55,605 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:56,340 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:56,340 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:56,340 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:57,073 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:57,073 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:57,073 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:57,809 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:57,810 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:57,810 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:58,540 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:58,540 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:58,540 - INFO - Scale factor detected: 0.5
+2025-12-25 07:44:59,337 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:44:59,337 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:44:59,337 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:00,062 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:00,062 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:00,062 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:00,802 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:00,803 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:00,803 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:01,537 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:01,537 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:01,537 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:02,264 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:02,265 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:02,265 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:02,999 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:02,999 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:02,999 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:03,736 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:03,736 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:03,736 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:04,463 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:04,463 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:04,463 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:05,195 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:05,195 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:05,195 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:05,929 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:05,929 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:05,929 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:06,655 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:06,655 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:06,655 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:07,386 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:07,387 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:07,387 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:08,115 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:08,115 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:08,115 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:08,841 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:08,841 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:08,841 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:09,577 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:09,577 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:09,577 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:10,316 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:10,316 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:10,316 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:11,038 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:11,038 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:11,038 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:11,775 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:11,775 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:11,775 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:12,517 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:12,517 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:12,517 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:13,255 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:13,255 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:13,255 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:13,971 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:13,971 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:13,971 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:14,709 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:14,709 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:14,709 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:15,450 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:15,450 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:15,450 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:16,175 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:16,176 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:16,176 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:16,903 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:16,903 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:16,903 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:17,630 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:17,630 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:17,630 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:18,367 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:18,367 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:18,367 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:19,092 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:19,092 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:19,092 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:19,827 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:19,827 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:19,827 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:20,569 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:20,569 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:20,569 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:21,312 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:21,313 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:21,313 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:22,051 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:22,051 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:22,051 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:22,787 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:22,787 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:22,787 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:23,514 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:23,515 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:23,515 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:24,249 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:24,249 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:24,249 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:24,985 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:24,985 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:24,985 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:25,724 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:25,724 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:25,724 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:26,466 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:26,466 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:26,466 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:27,200 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:27,200 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:27,200 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:27,930 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:27,930 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:27,930 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:28,657 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:28,657 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:28,657 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:29,388 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:29,388 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:29,388 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:30,129 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:30,129 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:30,129 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:30,869 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:30,870 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:30,870 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:31,605 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:31,605 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:31,605 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:32,365 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:32,365 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:32,365 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:33,104 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:33,104 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:33,104 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:33,847 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:33,849 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:33,849 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:34,585 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:34,585 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:34,585 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:35,306 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:35,307 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:35,307 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:35,362 - INFO - Debug image saved to debug_detection.png
+2025-12-25 07:45:35,375 - INFO - OCR region saved: 57,1342 to 379,1394
+2025-12-25 07:45:35,516 - INFO - OCR detected text: 'learn more'
+2025-12-25 07:45:36,224 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:36,224 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:36,224 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:36,262 - INFO - Debug image saved to debug_detection.png
+2025-12-25 07:45:36,262 - INFO - OCR region saved: 57,1342 to 379,1394
+2025-12-25 07:45:36,338 - INFO - OCR detected text: 'learn more'
+2025-12-25 07:45:37,033 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:37,033 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:37,033 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:37,069 - INFO - Debug image saved to debug_detection.png
+2025-12-25 07:45:37,070 - INFO - OCR region saved: 57,1342 to 379,1394
+2025-12-25 07:45:37,141 - INFO - OCR detected text: 'learn more'
+2025-12-25 07:45:37,842 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:37,842 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:37,842 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:37,877 - INFO - Debug image saved to debug_detection.png
+2025-12-25 07:45:37,877 - INFO - OCR region saved: 57,1342 to 379,1394
+2025-12-25 07:45:37,946 - INFO - OCR detected text: 'learn more'
+2025-12-25 07:45:38,650 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:38,651 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:38,651 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:38,687 - INFO - Debug image saved to debug_detection.png
+2025-12-25 07:45:38,688 - INFO - OCR region saved: 57,1342 to 379,1394
+2025-12-25 07:45:38,757 - INFO - OCR detected text: 'learn more'
+2025-12-25 07:45:39,459 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:39,459 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:39,459 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:39,497 - INFO - Debug image saved to debug_detection.png
+2025-12-25 07:45:39,498 - INFO - OCR region saved: 57,1342 to 379,1394
+2025-12-25 07:45:39,566 - INFO - OCR detected text: 'learn more'
+2025-12-25 07:45:40,261 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:40,261 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:40,261 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:40,299 - INFO - Debug image saved to debug_detection.png
+2025-12-25 07:45:40,300 - INFO - OCR region saved: 57,1342 to 379,1394
+2025-12-25 07:45:40,373 - INFO - OCR detected text: 'learn more'
+2025-12-25 07:45:41,074 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:41,074 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:41,074 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:41,112 - INFO - Debug image saved to debug_detection.png
+2025-12-25 07:45:41,113 - INFO - OCR region saved: 57,1342 to 379,1394
+2025-12-25 07:45:41,201 - INFO - OCR detected text: 'learn more'
+2025-12-25 07:45:41,910 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:41,910 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:41,910 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:41,970 - INFO - Debug image saved to debug_detection.png
+2025-12-25 07:45:41,971 - INFO - OCR region saved: 57,1342 to 379,1394
+2025-12-25 07:45:42,098 - INFO - OCR detected text: 'learn more'
+2025-12-25 07:45:42,801 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:42,801 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:42,801 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:43,502 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:43,503 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:43,503 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:44,195 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:44,195 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:44,195 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:44,894 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:44,894 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:44,894 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:45,605 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:45,605 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:45,605 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:46,319 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:46,319 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:46,319 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:47,016 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:47,016 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:47,016 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:47,713 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:47,713 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:47,713 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:48,419 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:48,419 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:48,419 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:49,124 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:49,124 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:49,124 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:49,806 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:49,806 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:49,806 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:50,600 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:50,600 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:50,600 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:50,648 - INFO - Debug image saved to debug_detection.png
+2025-12-25 07:45:50,649 - INFO - OCR region saved: 991,1198 to 1391,1264
+2025-12-25 07:45:50,741 - INFO - OCR detected text: 'general'
+2025-12-25 07:45:51,463 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:51,463 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:51,464 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:51,501 - INFO - Debug image saved to debug_detection.png
+2025-12-25 07:45:51,502 - INFO - OCR region saved: 991,1211 to 1391,1277
+2025-12-25 07:45:51,580 - INFO - OCR detected text: 'general'
+2025-12-25 07:45:52,420 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:52,421 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:52,421 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:53,134 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:53,134 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:53,134 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:53,842 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:53,842 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:53,843 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:54,538 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:54,538 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:54,538 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:55,250 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:55,250 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:55,250 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:55,940 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:55,940 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:55,940 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:56,633 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:56,633 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:56,633 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:57,325 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:57,325 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:57,325 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:58,007 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:58,008 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:58,008 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:58,040 - INFO - Debug image saved to debug_detection.png
+2025-12-25 07:45:58,041 - INFO - OCR region saved: 1181,1355 to 1581,1421
+2025-12-25 07:45:58,127 - INFO - OCR detected text: 'a displays'
+2025-12-25 07:45:58,835 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:58,835 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:58,835 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:58,868 - INFO - Debug image saved to debug_detection.png
+2025-12-25 07:45:58,868 - INFO - OCR region saved: 1181,1355 to 1581,1421
+2025-12-25 07:45:58,936 - INFO - OCR detected text: 'a displays'
+2025-12-25 07:45:59,638 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:45:59,638 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:45:59,638 - INFO - Scale factor detected: 0.5
+2025-12-25 07:45:59,673 - INFO - Debug image saved to debug_detection.png
+2025-12-25 07:45:59,674 - INFO - OCR region saved: 1241,1049 to 1641,1115
+2025-12-25 07:45:59,744 - INFO - OCR detected text: 'a displays'
+2025-12-25 07:46:00,431 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:00,431 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:00,431 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:00,463 - INFO - Debug image saved to debug_detection.png
+2025-12-25 07:46:00,464 - INFO - OCR region saved: 1271,947 to 1671,1013
+2025-12-25 07:46:00,535 - INFO - OCR detected text: 'a displays'
+2025-12-25 07:46:01,234 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:01,234 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:01,234 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:01,269 - INFO - Debug image saved to debug_detection.png
+2025-12-25 07:46:01,270 - INFO - OCR region saved: 1195,929 to 1595,995
+2025-12-25 07:46:01,341 - INFO - OCR detected text: 'a displays'
+2025-12-25 07:46:02,048 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:02,048 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:02,048 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:02,082 - INFO - Debug image saved to debug_detection.png
+2025-12-25 07:46:02,082 - INFO - OCR region saved: 1203,671 to 1603,737
+2025-12-25 07:46:02,152 - INFO - OCR detected text: 'a displays'
+2025-12-25 07:46:02,857 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:02,857 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:02,857 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:02,900 - INFO - Debug image saved to debug_detection.png
+2025-12-25 07:46:02,900 - INFO - OCR region saved: 1113,391 to 1513,457
+2025-12-25 07:46:02,971 - INFO - OCR detected text: 'a displays'
+2025-12-25 07:46:03,673 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:03,673 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:03,673 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:03,710 - INFO - Debug image saved to debug_detection.png
+2025-12-25 07:46:03,710 - INFO - OCR region saved: 1113,391 to 1513,457
+2025-12-25 07:46:03,783 - INFO - OCR detected text: 'a displays'
+2025-12-25 07:46:04,493 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:04,493 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:04,493 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:04,532 - INFO - Debug image saved to debug_detection.png
+2025-12-25 07:46:04,532 - INFO - OCR region saved: 2111,1182 to 2249,1231
+2025-12-25 07:46:04,600 - INFO - OCR detected text: 'done'
+2025-12-25 07:46:05,306 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:05,306 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:05,306 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:05,343 - INFO - Debug image saved to debug_detection.png
+2025-12-25 07:46:05,343 - INFO - OCR region saved: 2111,1182 to 2249,1231
+2025-12-25 07:46:05,405 - INFO - OCR detected text: 'done'
+2025-12-25 07:46:06,117 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:06,117 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:06,117 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:06,156 - INFO - Debug image saved to debug_detection.png
+2025-12-25 07:46:06,156 - INFO - OCR region saved: 2111,1182 to 2249,1231
+2025-12-25 07:46:06,221 - INFO - OCR detected text: 'done'
+2025-12-25 07:46:06,925 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:06,925 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:06,925 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:06,963 - INFO - Debug image saved to debug_detection.png
+2025-12-25 07:46:06,963 - INFO - OCR region saved: 2111,1182 to 2249,1231
+2025-12-25 07:46:07,026 - INFO - OCR detected text: 'done'
+2025-12-25 07:46:07,731 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:07,731 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:07,731 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:07,769 - INFO - Debug image saved to debug_detection.png
+2025-12-25 07:46:07,770 - INFO - OCR region saved: 2111,1182 to 2249,1231
+2025-12-25 07:46:07,836 - INFO - OCR detected text: 'done'
+2025-12-25 07:46:08,539 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:08,539 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:08,539 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:08,577 - INFO - Debug image saved to debug_detection.png
+2025-12-25 07:46:08,577 - INFO - OCR region saved: 2111,1182 to 2249,1231
+2025-12-25 07:46:08,639 - INFO - OCR detected text: 'done'
+2025-12-25 07:46:09,349 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:09,349 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:09,349 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:09,387 - INFO - Debug image saved to debug_detection.png
+2025-12-25 07:46:09,387 - INFO - OCR region saved: 2111,1182 to 2249,1231
+2025-12-25 07:46:09,452 - INFO - OCR detected text: 'done'
+2025-12-25 07:46:10,139 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:10,140 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:10,140 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:10,855 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:10,855 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:10,855 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:11,562 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:11,562 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:11,562 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:12,267 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:12,267 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:12,267 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:12,975 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:12,975 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:12,975 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:13,679 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:13,679 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:13,679 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:14,370 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:14,370 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:14,370 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:15,071 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:15,072 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:15,072 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:15,763 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:15,763 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:15,763 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:16,463 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:16,463 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:16,463 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:17,165 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:17,165 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:17,165 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:17,866 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:17,866 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:17,866 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:18,571 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:18,571 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:18,571 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:19,284 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:19,284 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:19,284 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:19,989 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:19,989 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:19,989 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:20,677 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:20,677 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:20,677 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:21,373 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:21,373 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:21,373 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:22,074 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:22,074 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:22,074 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:22,777 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:22,777 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:22,777 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:23,476 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:23,477 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:23,477 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:24,173 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:24,173 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:24,173 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:24,885 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:24,885 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:24,885 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:25,594 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:25,595 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:25,595 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:26,313 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:26,313 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:26,313 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:27,017 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:27,017 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:27,017 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:27,722 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:27,722 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:27,722 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:28,429 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:28,429 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:28,429 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:29,129 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:29,129 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:29,129 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:29,833 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:29,833 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:29,833 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:30,538 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:30,539 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:30,539 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:31,258 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:31,258 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:31,258 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:31,997 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:31,997 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:31,998 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:32,704 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:32,705 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:32,705 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:32,733 - INFO - Debug image saved to debug_detection.png
+2025-12-25 07:46:32,734 - INFO - OCR region saved: 904,620 to 1170,707
+2025-12-25 07:46:32,819 - INFO - OCR detected text: 'done'
+2025-12-25 07:46:33,520 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:33,520 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:33,520 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:34,225 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:34,225 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:34,225 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:34,929 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:34,929 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:34,929 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:35,642 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:35,642 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:35,642 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:36,353 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:36,353 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:36,353 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:37,054 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:37,054 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:37,054 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:37,750 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:37,751 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:37,751 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:38,457 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:38,457 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:38,457 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:39,162 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:39,162 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:39,162 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:39,879 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:39,879 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:39,879 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:40,587 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:40,587 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:40,587 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:41,298 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:41,298 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:41,298 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:42,004 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:42,005 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:42,005 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:42,713 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:42,713 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:42,713 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:43,420 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:43,420 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:43,420 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:44,138 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:44,138 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:44,138 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:44,846 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:44,846 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:44,846 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:45,556 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:45,556 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:45,556 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:46,261 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:46,262 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:46,262 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:46,971 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:46,971 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:46,971 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:47,671 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:47,671 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:47,671 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:48,380 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:48,380 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:48,380 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:49,087 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:49,087 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:49,087 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:49,791 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:49,792 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:49,792 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:50,499 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:50,499 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:50,499 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:51,199 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:51,199 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:51,199 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:51,911 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:51,912 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:51,912 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:52,626 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:52,626 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:52,626 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:53,337 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:53,337 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:53,337 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:54,037 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:54,038 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:54,038 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:54,745 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:54,746 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:54,746 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:55,445 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:55,445 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:55,445 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:56,137 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:56,137 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:56,137 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:56,840 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:56,840 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:56,840 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:57,546 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:57,546 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:57,546 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:58,245 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:58,245 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:58,245 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:58,962 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:58,962 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:58,962 - INFO - Scale factor detected: 0.5
+2025-12-25 07:46:59,670 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:46:59,670 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:46:59,670 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:00,373 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:00,373 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:00,373 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:01,087 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:01,088 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:01,088 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:01,784 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:01,784 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:01,784 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:02,486 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:02,486 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:02,486 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:03,182 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:03,182 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:03,182 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:03,892 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:03,892 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:03,892 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:04,591 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:04,591 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:04,591 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:05,291 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:05,291 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:05,291 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:05,991 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:05,991 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:05,991 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:06,681 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:06,681 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:06,681 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:07,384 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:07,384 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:07,384 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:08,088 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:08,088 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:08,088 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:09,013 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:09,013 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:09,013 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:09,731 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:09,732 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:09,732 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:10,437 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:10,437 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:10,437 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:11,132 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:11,133 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:11,133 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:11,848 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:11,849 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:11,849 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:12,599 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:12,600 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:12,600 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:13,322 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:13,322 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:13,322 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:14,037 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:14,037 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:14,037 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:14,746 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:14,746 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:14,746 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:15,437 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:15,437 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:15,437 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:16,141 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:16,141 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:16,141 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:16,837 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:16,838 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:16,838 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:17,528 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:17,528 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:17,528 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:18,229 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:18,229 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:18,229 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:18,916 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:18,917 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:18,917 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:19,621 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:19,622 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:19,622 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:20,321 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:20,321 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:20,321 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:21,020 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:21,020 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:21,020 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:21,716 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:21,716 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:21,716 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:22,421 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:22,422 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:22,422 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:23,125 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:23,125 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:23,125 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:23,828 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:23,828 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:23,828 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:24,529 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:24,529 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:24,529 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:25,217 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:25,218 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:25,218 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:25,909 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:25,909 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:25,909 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:26,609 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:26,609 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:26,609 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:27,314 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:27,314 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:27,315 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:28,021 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:28,021 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:28,021 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:28,721 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:28,721 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:28,721 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:29,421 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:29,422 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:29,422 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:30,125 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:30,125 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:30,125 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:30,809 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:30,809 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:30,809 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:31,505 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:31,505 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:31,505 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:32,198 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:32,199 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:32,199 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:32,895 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:32,895 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:32,895 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:33,595 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:33,595 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:33,595 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:34,288 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:34,289 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:34,289 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:34,979 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:34,979 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:34,979 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:35,667 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:35,668 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:35,668 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:36,378 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:36,378 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:36,378 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:37,084 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:37,084 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:37,084 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:37,781 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:37,781 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:37,781 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:38,483 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:38,483 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:38,483 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:39,179 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:39,179 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:39,179 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:39,877 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:39,877 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:39,877 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:40,572 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:40,573 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:40,573 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:41,278 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:41,279 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:41,279 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:41,987 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:41,988 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:41,988 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:42,691 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:42,691 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:42,691 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:43,392 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:43,393 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:43,393 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:44,084 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:44,085 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:44,085 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:44,792 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:44,792 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:44,792 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:45,489 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:45,489 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:45,489 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:46,190 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:46,190 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:46,190 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:46,892 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:46,892 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:46,892 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:47,600 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:47,600 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:47,600 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:48,305 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:48,306 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:48,306 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:48,985 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:48,985 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:48,985 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:49,684 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:49,684 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:49,684 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:50,360 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:50,361 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:50,361 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:51,031 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:51,031 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:51,031 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:51,707 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:47:51,707 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:47:51,707 - INFO - Scale factor detected: 0.5
+2025-12-25 07:47:51,949 - INFO - 
+Monitoring stopped by user
+2025-12-25 07:48:11,197 - INFO - Discord Queue Clicker initialized
+2025-12-25 07:48:11,198 - INFO - Check interval: 0.5s, Confidence: 0.7
+2025-12-25 07:48:11,199 - INFO - Screen size: Size(width=1352, height=878)
+2025-12-25 07:48:11,199 - INFO - Debug mode: True
+2025-12-25 07:48:11,211 - INFO - Sleep prevention enabled (caffeinate started)
+2025-12-25 07:48:11,212 - INFO - Starting to monitor for queue button...
+2025-12-25 07:48:11,212 - INFO - Looking for keywords: ['join queue', 'queue', 'join', 'enter queue']
+2025-12-25 07:48:11,212 - INFO - Press Ctrl+C to stop
+2025-12-25 07:48:11,457 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:11,457 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:11,457 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:12,185 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:12,185 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:12,185 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:12,931 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:12,931 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:12,931 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:13,664 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:13,664 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:13,664 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:14,374 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:14,374 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:14,374 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:15,091 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:15,092 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:15,092 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:15,796 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:15,796 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:15,796 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:16,505 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:16,506 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:16,506 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:17,207 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:17,207 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:17,207 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:17,903 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:17,904 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:17,904 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:18,612 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:18,612 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:18,612 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:19,309 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:19,309 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:19,309 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:20,025 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:20,026 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:20,026 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:20,759 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:20,759 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:20,759 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:21,487 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:21,487 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:21,488 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:22,240 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:22,240 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:22,240 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:22,982 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:22,983 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:22,983 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:23,720 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:23,721 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:23,721 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:24,461 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:24,461 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:24,461 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:25,196 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:25,196 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:25,196 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:25,936 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:25,936 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:25,936 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:26,661 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:26,661 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:26,661 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:27,398 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:27,398 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:27,399 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:28,126 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:28,126 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:28,126 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:28,869 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:28,869 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:28,869 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:29,599 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:29,599 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:29,599 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:30,336 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:30,336 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:30,336 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:31,067 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:31,067 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:31,067 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:31,801 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:31,801 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:31,801 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:32,531 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:32,531 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:32,531 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:33,260 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:33,260 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:33,260 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:33,999 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:33,999 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:33,999 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:34,736 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:34,736 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:34,736 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:35,467 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:35,467 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:35,467 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:36,203 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:36,203 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:36,203 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:36,941 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:36,942 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:36,942 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:37,682 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:37,682 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:37,682 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:38,417 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:38,417 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:38,417 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:39,149 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:39,149 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:39,149 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:39,897 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:39,897 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:39,897 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:40,633 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:40,633 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:40,634 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:41,383 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:41,383 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:41,383 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:42,113 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:42,113 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:42,113 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:42,832 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:42,833 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:42,833 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:43,566 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:43,567 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:43,567 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:44,304 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:44,304 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:44,304 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:45,040 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:45,040 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:45,040 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:45,761 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:45,761 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:45,761 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:46,495 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:46,495 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:46,495 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:47,233 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:47,233 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:47,233 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:47,977 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:47,977 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:47,978 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:48,717 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:48,717 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:48,717 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:49,444 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:49,444 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:49,444 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:50,171 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:50,171 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:50,171 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:50,870 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:50,870 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:50,870 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:51,605 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:51,605 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:51,605 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:52,337 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:52,338 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:52,338 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:53,066 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:53,066 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:53,066 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:53,801 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:53,801 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:53,801 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:54,530 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:54,531 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:54,531 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:55,261 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:55,261 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:55,261 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:55,994 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:55,994 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:55,994 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:56,730 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:56,730 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:56,730 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:57,460 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:57,460 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:57,460 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:58,195 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:58,195 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:58,195 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:58,930 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:58,930 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:58,930 - INFO - Scale factor detected: 0.5
+2025-12-25 07:48:59,675 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:48:59,675 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:48:59,675 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:00,416 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:00,416 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:00,416 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:01,151 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:01,151 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:01,151 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:01,890 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:01,890 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:01,891 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:02,618 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:02,618 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:02,618 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:03,353 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:03,353 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:03,353 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:04,084 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:04,084 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:04,084 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:04,818 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:04,818 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:04,818 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:05,544 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:05,544 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:05,544 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:06,274 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:06,274 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:06,274 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:06,999 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:06,999 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:06,999 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:07,726 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:07,726 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:07,726 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:08,459 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:08,459 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:08,459 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:09,194 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:09,194 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:09,194 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:09,935 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:09,935 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:09,935 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:10,674 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:10,674 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:10,674 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:11,404 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:11,405 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:11,405 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:12,132 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:12,132 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:12,132 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:12,859 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:12,860 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:12,860 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:13,586 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:13,587 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:13,587 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:14,304 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:14,304 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:14,304 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:15,033 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:15,033 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:15,033 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:15,770 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:15,770 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:15,770 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:16,498 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:16,498 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:16,498 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:17,229 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:17,230 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:17,230 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:17,965 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:17,965 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:17,965 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:18,705 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:18,705 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:18,705 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:19,440 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:19,441 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:19,441 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:20,181 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:20,181 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:20,181 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:20,917 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:20,917 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:20,917 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:21,655 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:21,655 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:21,655 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:22,387 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:22,387 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:22,388 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:23,116 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:23,116 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:23,116 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:23,848 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:23,848 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:23,849 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:24,578 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:24,579 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:24,579 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:25,308 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:25,308 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:25,308 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:26,040 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:26,040 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:26,040 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:26,771 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:26,771 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:26,771 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:27,506 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:27,506 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:27,506 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:28,239 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:28,239 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:28,240 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:28,980 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:28,981 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:28,981 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:29,712 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:29,712 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:29,712 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:30,443 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:30,443 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:30,443 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:31,174 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:31,174 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:31,174 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:31,908 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:31,908 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:31,908 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:32,638 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:32,638 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:32,638 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:33,366 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:33,367 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:33,367 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:34,099 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:34,099 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:34,099 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:34,829 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:34,830 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:34,830 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:35,556 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:35,556 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:35,556 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:36,284 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:36,284 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:36,284 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:37,006 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:37,006 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:37,006 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:37,744 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:37,744 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:37,744 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:38,483 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:38,483 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:38,483 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:39,219 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:39,219 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:39,219 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:39,956 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:39,956 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:39,956 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:40,706 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:40,707 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:40,707 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:41,448 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:41,448 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:41,448 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:42,179 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:42,179 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:42,179 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:42,910 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:42,910 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:42,910 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:43,651 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:43,651 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:43,651 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:44,385 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:44,385 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:44,385 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:45,113 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:45,113 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:45,113 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:45,838 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:45,838 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:45,838 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:46,567 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:46,567 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:46,567 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:47,295 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:47,295 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:47,295 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:48,029 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:48,029 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:48,029 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:48,760 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:48,760 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:48,760 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:49,491 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:49,491 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:49,492 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:50,233 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:50,233 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:50,233 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:50,968 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:50,968 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:50,968 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:51,701 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:51,701 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:51,701 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:52,436 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:52,437 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:52,437 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:53,165 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:53,165 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:53,165 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:53,891 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:53,891 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:53,891 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:54,626 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:54,626 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:54,626 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:55,355 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:55,355 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:55,355 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:56,083 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:56,083 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:56,083 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:56,809 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:56,809 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:56,809 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:57,536 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:57,537 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:57,537 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:58,274 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:58,274 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:58,274 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:59,014 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:59,014 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:59,015 - INFO - Scale factor detected: 0.5
+2025-12-25 07:49:59,749 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:49:59,749 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:49:59,750 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:00,487 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:00,487 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:00,487 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:01,225 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:01,225 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:01,225 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:01,961 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:01,961 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:01,961 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:02,693 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:02,693 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:02,693 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:03,423 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:03,424 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:03,424 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:04,151 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:04,151 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:04,151 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:04,880 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:04,880 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:04,880 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:05,612 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:05,612 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:05,612 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:06,340 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:06,340 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:06,340 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:07,067 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:07,067 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:07,067 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:07,791 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:07,791 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:07,791 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:08,524 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:08,524 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:08,524 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:09,257 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:09,258 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:09,258 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:09,993 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:09,994 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:09,994 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:10,729 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:10,729 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:10,729 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:11,464 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:11,464 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:11,464 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:12,193 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:12,193 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:12,193 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:12,926 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:12,926 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:12,926 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:13,655 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:13,655 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:13,655 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:14,376 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:14,377 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:14,377 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:15,109 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:15,109 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:15,110 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:15,840 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:15,840 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:15,840 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:16,571 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:16,571 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:16,571 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:17,303 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:17,303 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:17,303 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:18,036 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:18,036 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:18,036 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:18,759 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:18,759 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:18,759 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:19,496 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:19,496 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:19,496 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:20,224 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:20,224 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:20,224 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:20,962 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:20,962 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:20,962 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:21,697 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:21,697 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:21,697 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:22,427 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:22,427 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:22,427 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:23,155 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:23,155 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:23,155 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:23,890 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:23,890 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:23,891 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:24,615 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:24,615 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:24,615 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:25,343 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:25,343 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:25,343 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:26,075 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:26,075 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:26,075 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:26,808 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:26,808 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:26,808 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:27,537 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:27,537 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:27,537 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:28,267 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:28,267 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:28,267 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:29,000 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:29,000 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:29,000 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:29,736 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:29,737 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:29,737 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:30,466 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:30,466 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:30,466 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:31,205 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:31,205 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:31,205 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:31,943 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:31,943 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:31,943 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:32,683 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:32,683 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:32,683 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:33,418 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:33,418 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:33,418 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:34,150 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:34,150 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:34,150 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:34,877 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:34,877 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:34,877 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:35,609 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:35,609 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:35,609 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:36,334 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:36,334 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:36,334 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:37,060 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:37,060 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:37,060 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:37,786 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:37,786 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:37,786 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:38,514 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:38,514 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:38,514 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:39,243 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:39,243 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:39,243 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:39,979 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:39,979 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:39,979 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:40,717 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:40,717 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:40,717 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:41,459 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:41,459 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:41,459 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:42,191 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:42,191 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:42,191 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:42,928 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:42,928 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:42,928 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:43,663 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:43,663 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:43,663 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:44,393 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:44,393 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:44,393 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:45,124 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:45,124 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:45,124 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:45,854 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:45,854 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:45,854 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:46,587 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:46,587 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:46,587 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:47,313 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:47,313 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:47,313 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:48,048 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:48,048 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:48,048 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:48,777 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:48,777 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:48,777 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:49,513 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:49,513 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:49,513 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:50,250 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:50,250 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:50,250 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:50,974 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:50,974 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:50,974 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:51,714 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:51,714 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:51,714 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:52,448 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:52,448 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:52,448 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:53,181 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:53,181 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:53,181 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:53,920 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:53,920 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:53,920 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:54,648 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:54,648 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:54,648 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:55,380 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:55,380 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:55,380 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:56,109 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:56,109 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:56,109 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:56,841 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:56,842 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:56,842 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:57,570 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:57,570 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:57,570 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:58,317 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:58,317 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:58,317 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:59,043 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:59,043 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:59,043 - INFO - Scale factor detected: 0.5
+2025-12-25 07:50:59,768 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:50:59,768 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:50:59,768 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:00,498 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:00,499 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:00,499 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:01,231 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:01,231 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:01,231 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:01,973 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:01,973 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:01,973 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:02,710 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:02,711 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:02,711 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:03,444 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:03,444 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:03,444 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:04,174 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:04,174 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:04,174 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:04,908 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:04,909 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:04,909 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:05,643 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:05,643 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:05,643 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:06,380 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:06,380 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:06,380 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:07,168 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:07,168 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:07,168 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:07,924 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:07,924 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:07,924 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:08,658 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:08,658 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:08,658 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:09,383 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:09,384 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:09,384 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:10,109 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:10,109 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:10,109 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:10,845 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:10,845 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:10,845 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:11,584 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:11,584 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:11,584 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:12,322 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:12,322 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:12,322 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:13,064 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:13,065 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:13,065 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:13,799 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:13,800 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:13,800 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:14,524 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:14,524 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:14,524 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:15,253 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:15,253 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:15,253 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:15,985 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:15,985 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:15,985 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:16,716 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:16,716 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:16,716 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:17,449 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:17,449 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:17,449 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:18,178 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:18,178 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:18,178 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:18,911 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:18,911 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:18,911 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:19,649 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:19,649 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:19,649 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:20,390 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:20,390 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:20,390 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:21,132 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:21,132 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:21,132 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:21,865 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:21,865 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:21,865 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:22,606 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:22,607 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:22,607 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:23,340 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:23,341 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:23,341 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:24,073 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:24,073 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:24,073 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:24,802 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:24,802 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:24,802 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:25,529 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:25,529 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:25,529 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:26,261 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:26,261 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:26,261 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:26,992 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:26,992 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:26,992 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:27,726 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:27,726 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:27,727 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:28,457 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:28,457 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:28,457 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:29,193 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:29,193 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:29,193 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:29,926 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:29,926 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:29,926 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:30,662 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:30,662 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:30,663 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:31,397 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:31,397 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:31,397 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:32,135 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:32,135 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:32,135 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:32,871 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:32,871 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:32,871 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:33,602 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:33,602 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:33,602 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:34,338 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:34,339 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:34,339 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:35,078 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:35,078 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:35,078 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:35,807 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:35,808 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:35,808 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:36,533 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:36,534 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:36,534 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:37,260 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:37,260 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:37,260 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:37,988 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:37,988 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:37,988 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:38,722 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:38,722 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:38,722 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:39,460 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:39,460 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:39,460 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:40,195 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:40,195 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:40,195 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:40,928 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:40,929 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:40,929 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:41,665 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:41,665 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:41,665 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:42,405 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:42,405 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:42,405 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:43,147 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:43,147 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:43,147 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:43,885 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:43,885 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:43,885 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:44,617 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:44,617 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:44,617 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:45,350 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:45,350 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:45,350 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:46,077 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:46,077 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:46,077 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:46,810 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:46,810 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:46,810 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:47,535 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:47,535 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:47,535 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:48,260 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:48,260 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:48,260 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:48,984 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:48,984 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:48,984 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:49,722 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:49,722 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:49,722 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:50,456 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:50,456 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:50,456 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:51,191 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:51,191 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:51,191 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:51,928 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:51,929 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:51,929 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:52,680 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:52,680 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:52,680 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:53,394 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:53,394 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:53,394 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:54,101 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:54,102 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:54,102 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:54,807 - INFO - Screenshot size: 2704x1756
+2025-12-25 07:51:54,807 - INFO - PyAutoGUI screen size: 1352x878
+2025-12-25 07:51:54,807 - INFO - Scale factor detected: 0.5
+2025-12-25 07:51:54,821 - INFO - 
+Monitoring stopped by user
+2025-12-25 07:51:54,821 - INFO - Sleep prevention disabled (caffeinate stopped)

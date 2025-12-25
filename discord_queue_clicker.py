@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import logging
+import subprocess
 import time
 from datetime import datetime
 
@@ -22,6 +23,7 @@ class DiscordQueueClicker:
         self.running = False
         self.debug = debug
         self.scale_factor = 1.0
+        self.caffeinate_process = None
 
         self.lower_blue = np.array([110, 150, 150])
         self.upper_blue = np.array([130, 255, 255])
@@ -33,6 +35,19 @@ class DiscordQueueClicker:
         logging.info(f"Check interval: {check_interval}s, Confidence: {confidence}")
         logging.info(f"Screen size: {pyautogui.size()}")
         logging.info(f"Debug mode: {debug}")
+
+    def prevent_sleep(self):
+        try:
+            self.caffeinate_process = subprocess.Popen(["caffeinate", "-d"])
+            logging.info("Sleep prevention enabled (caffeinate started)")
+        except Exception as e:
+            logging.warning(f"Could not start sleep prevention: {e}")
+
+    def allow_sleep(self):
+        if self.caffeinate_process:
+            self.caffeinate_process.terminate()
+            self.caffeinate_process = None
+            logging.info("Sleep prevention disabled (caffeinate stopped)")
 
     def detect_blue_button(self, screenshot):
         hsv = cv2.cvtColor(screenshot, cv2.COLOR_BGR2HSV)
@@ -143,6 +158,7 @@ class DiscordQueueClicker:
             keywords = ["join queue", "queue", "join"]
 
         self.running = True
+        self.prevent_sleep()
         logging.info("Starting to monitor for queue button...")
         logging.info(f"Looking for keywords: {keywords}")
         logging.info("Press Ctrl+C to stop")
@@ -191,6 +207,8 @@ class DiscordQueueClicker:
         except Exception as e:
             logging.error(f"Error during monitoring: {e}")
             raise
+        finally:
+            self.allow_sleep()
 
     def stop(self):
         self.running = False
