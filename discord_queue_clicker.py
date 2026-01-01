@@ -116,8 +116,10 @@ class DiscordQueueClicker:
 
         logging.info(f"clicking button at ({center_x}, {center_y})")
 
-        # Click immediately while moving to position for maximum speed
-        pyautogui.click(center_x, center_y, duration=0.0)
+        pyautogui.moveTo(center_x, center_y, duration=0.0)
+        time.sleep(0.1)
+        pyautogui.click()
+        time.sleep(0.1)
 
         logging.info("button clicked!")
 
