@@ -3,17 +3,20 @@
 import logging
 import subprocess
 import time
-from datetime import datetime
 
 import cv2
+import mss
 import numpy as np
 import pyautogui
+import pytesseract
 
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s",
     handlers=[logging.StreamHandler()],
 )
+
+_OCR_CONFIG = "--psm 7 --oem 3 -c tessedit_char_whitelist=abcdefghijklmnopqrstuvwxyz "
 
 
 class DiscordQueueClicker:
@@ -22,18 +25,23 @@ class DiscordQueueClicker:
         self.confidence = confidence
         self.running = False
         self.debug = debug
-        self.scale_factor = 1.0
         self.caffeinate_process = None
 
         self.lower_blue = np.array([110, 150, 150])
         self.upper_blue = np.array([130, 255, 255])
 
-        pyautogui.PAUSE = 0.05
+        pyautogui.PAUSE = 0.0
         pyautogui.FAILSAFE = True
+
+        screen_size = pyautogui.size()
+        self._sct = mss.mss()
+        self._monitor = self._sct.monitors[1]
+        self.scale_factor = self._monitor["width"] / screen_size.width
 
         logging.info("discord queue clicker initialized")
         logging.info(f"check interval: {check_interval}s, confidence: {confidence}")
-        logging.info(f"screen size: {pyautogui.size()}")
+        logging.info(f"screen size: {screen_size}")
+        logging.info(f"scale factor: {self.scale_factor}")
         logging.info(f"debug mode: {debug}")
 
     def prevent_sleep(self):
@@ -77,8 +85,6 @@ class DiscordQueueClicker:
 
     def check_for_text_near_button(self, screenshot, button_region, keywords):
         try:
-            import pytesseract
-
             x, y, w, h = button_region
             margin = 5
             x1 = max(0, x - margin)
@@ -94,7 +100,7 @@ class DiscordQueueClicker:
 
             gray = cv2.cvtColor(region, cv2.COLOR_BGR2GRAY)
             _, thresh = cv2.threshold(gray, 150, 255, cv2.THRESH_BINARY)
-            text = pytesseract.image_to_string(thresh).lower()
+            text = pytesseract.image_to_string(thresh, config=_OCR_CONFIG).lower()
 
             logging.debug(f"ocr detected text: '{text.strip()}'")
 
@@ -103,8 +109,6 @@ class DiscordQueueClicker:
                     logging.info(f"keyword '{keyword}' matched!")
                     return True
 
-        except ImportError:
-            logging.warning("pytesseract not available, skipping ocr verification")
         except Exception as e:
             logging.debug(f"ocr error: {e}")
 
@@ -115,31 +119,12 @@ class DiscordQueueClicker:
         center_y = int((y + h // 2) * self.scale_factor)
 
         logging.info(f"clicking button at ({center_x}, {center_y})")
-
-        pyautogui.moveTo(center_x, center_y, duration=0.0)
-        time.sleep(0.1)
-        pyautogui.click()
-        time.sleep(0.1)
-
+        pyautogui.click(center_x, center_y)
         logging.info("button clicked!")
 
     def take_screenshot(self):
-        screenshot = pyautogui.screenshot()
-        screenshot_np = np.array(screenshot)
-        screenshot_bgr = cv2.cvtColor(screenshot_np, cv2.COLOR_RGB2BGR)
-
-        screen_size = pyautogui.size()
-        screenshot_height, screenshot_width = screenshot_bgr.shape[:2]
-
-        if screenshot_width != screen_size.width:
-            self.scale_factor = screen_size.width / screenshot_width
-            if self.debug:
-                logging.info(f"screenshot size: {screenshot_width}x{screenshot_height}")
-                logging.info(
-                    f"pyautogui screen size: {screen_size.width}x{screen_size.height}"
-                )
-                logging.info(f"scale factor detected: {self.scale_factor}")
-
+        frame = self._sct.grab(self._monitor)
+        screenshot_bgr = cv2.cvtColor(np.array(frame), cv2.COLOR_BGRA2BGR)
         return screenshot_bgr
 
     def start_monitoring(self, keywords=None, use_ocr=True):
