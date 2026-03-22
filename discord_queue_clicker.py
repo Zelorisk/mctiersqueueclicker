@@ -8,7 +8,6 @@ import cv2
 import mss
 import numpy as np
 import pyautogui
-import pytesseract
 
 logging.basicConfig(
     level=logging.INFO,
@@ -16,209 +15,87 @@ logging.basicConfig(
     handlers=[logging.StreamHandler()],
 )
 
-_OCR_CONFIG = "--psm 7 --oem 3 -c tessedit_char_whitelist=abcdefghijklmnopqrstuvwxyz "
+TEMPLATE_PATH = "button_template.png"
+MATCH_THRESHOLD = 0.75
 
 
-class DiscordQueueClicker:
-    def __init__(self, check_interval=0.5, confidence=0.7, debug=False):
-        self.check_interval = check_interval
-        self.confidence = confidence
-        self.running = False
-        self.debug = debug
-        self.caffeinate_process = None
+def load_template():
+    t = cv2.imread(TEMPLATE_PATH)
+    if t is None:
+        raise FileNotFoundError(f"template not found: {TEMPLATE_PATH}")
+    return t
 
-        self.lower_blue = np.array([110, 150, 150])
-        self.upper_blue = np.array([130, 255, 255])
 
-        pyautogui.PAUSE = 0.0
-        pyautogui.FAILSAFE = True
-
-        screen_size = pyautogui.size()
-        self._sct = mss.mss()
-        self._monitor = self._sct.monitors[1]
-        self.scale_factor = self._monitor["width"] / screen_size.width
-
-        logging.info("discord queue clicker initialized")
-        logging.info(f"check interval: {check_interval}s, confidence: {confidence}")
-        logging.info(f"screen size: {screen_size}")
-        logging.info(f"scale factor: {self.scale_factor}")
-        logging.info(f"debug mode: {debug}")
-
-    def prevent_sleep(self):
-        try:
-            self.caffeinate_process = subprocess.Popen(["caffeinate", "-d"])
-            logging.info("sleep prevention enabled (caffeinate started)")
-        except Exception as e:
-            logging.warning(f"could not start sleep prevention: {e}")
-
-    def allow_sleep(self):
-        if self.caffeinate_process:
-            self.caffeinate_process.terminate()
-            self.caffeinate_process = None
-            logging.info("sleep prevention disabled (caffeinate stopped)")
-
-    def detect_blue_button(self, screenshot):
-        hsv = cv2.cvtColor(screenshot, cv2.COLOR_BGR2HSV)
-        mask = cv2.inRange(hsv, self.lower_blue, self.upper_blue)
-        contours, _ = cv2.findContours(mask, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
-
-        buttons = []
-        screen_height = screenshot.shape[0]
-        screen_width = screenshot.shape[1]
-
-        for contour in contours:
-            area = cv2.contourArea(contour)
-            if 2000 < area < 50000:
-                x, y, w, h = cv2.boundingRect(contour)
-                aspect_ratio = w / h if h > 0 else 0
-
-                if y < screen_height * 0.2:
-                    continue
-
-                if y > screen_height * 0.9:
-                    continue
-
-                if 2.0 < aspect_ratio < 8.0 and h > 25 and w > 100:
-                    buttons.append((x, y, w, h))
-
-        return buttons
-
-    def check_for_text_near_button(self, screenshot, button_region, keywords):
-        try:
-            x, y, w, h = button_region
-            margin = 5
-            x1 = max(0, x - margin)
-            y1 = max(0, y - margin)
-            x2 = min(screenshot.shape[1], x + w + margin)
-            y2 = min(screenshot.shape[0], y + h + margin)
-
-            region = screenshot[y1:y2, x1:x2]
-
-            if self.debug:
-                cv2.imwrite("debug_ocr_region.png", region)
-                logging.info(f"ocr region saved: {x1},{y1} to {x2},{y2}")
-
-            gray = cv2.cvtColor(region, cv2.COLOR_BGR2GRAY)
-            _, thresh = cv2.threshold(gray, 150, 255, cv2.THRESH_BINARY)
-            text = pytesseract.image_to_string(thresh, config=_OCR_CONFIG).lower()
-
-            logging.debug(f"ocr detected text: '{text.strip()}'")
-
-            for keyword in keywords:
-                if keyword.lower() in text:
-                    logging.info(f"keyword '{keyword}' matched!")
-                    return True
-
-        except Exception as e:
-            logging.debug(f"ocr error: {e}")
-
-        return False
-
-    def click_button(self, x, y, w, h):
-        center_x = int((x + w // 2) * self.scale_factor)
-        center_y = int((y + h // 2) * self.scale_factor)
-
-        logging.info(f"clicking button at ({center_x}, {center_y})")
-        pyautogui.click(center_x, center_y)
-        logging.info("button clicked!")
-
-    def take_screenshot(self):
-        frame = self._sct.grab(self._monitor)
-        screenshot_bgr = cv2.cvtColor(np.array(frame), cv2.COLOR_BGRA2BGR)
-        return screenshot_bgr
-
-    def start_monitoring(self, keywords=None, use_ocr=True):
-        if keywords is None:
-            keywords = ["join queue", "queue", "join"]
-
-        self.running = True
-        self.prevent_sleep()
-        logging.info("starting to monitor for queue button...")
-        logging.info(f"looking for keywords: {keywords}")
-        logging.info("press ctrl+c to stop")
-
-        try:
-            while self.running:
-                screenshot = self.take_screenshot()
-                buttons = self.detect_blue_button(screenshot)
-
-                if buttons:
-                    logging.debug(f"found {len(buttons)} potential button(s)")
-
-                    if self.debug:
-                        debug_img = screenshot.copy()
-                        for button in buttons:
-                            x, y, w, h = button
-                            cv2.rectangle(
-                                debug_img, (x, y), (x + w, y + h), (0, 255, 0), 2
-                            )
-                            cv2.circle(
-                                debug_img, (x + w // 2, y + h // 2), 5, (0, 0, 255), -1
-                            )
-                        cv2.imwrite("debug_detection.png", debug_img)
-                        logging.info("debug image saved to debug_detection.png")
-
-                    for button in buttons:
-                        x, y, w, h = button
-
-                        if use_ocr:
-                            if self.check_for_text_near_button(
-                                screenshot, button, keywords
-                            ):
-                                self.click_button(x, y, w, h)
-                                logging.info("queue button found and clicked!")
-                                return True
-                        else:
-                            self.click_button(x, y, w, h)
-                            logging.info("blue button clicked (ocr disabled)")
-                            return True
-
-                time.sleep(self.check_interval)
-
-        except KeyboardInterrupt:
-            logging.info("\nmonitoring stopped by user")
-            self.running = False
-        except Exception as e:
-            logging.error(f"error during monitoring: {e}")
-            raise
-        finally:
-            self.allow_sleep()
-
-    def stop(self):
-        self.running = False
-        logging.info("monitoring stopped")
+def find_button(screenshot, template):
+    result = cv2.matchTemplate(screenshot, template, cv2.TM_CCOEFF_NORMED)
+    _, max_val, _, max_loc = cv2.minMaxLoc(result)
+    if max_val >= MATCH_THRESHOLD:
+        th, tw = template.shape[:2]
+        cx = max_loc[0] + tw // 2
+        cy = max_loc[1] + th // 2
+        return cx, cy, max_val
+    return None
 
 
 def main():
     print("=" * 60)
     print("discord queue auto-clicker")
     print("=" * 60)
-    print()
-    print("instructions:")
-    print("1. open discord and navigate to the desired channel")
-    print("2. make sure the channel is visible on screen")
-    print("3. run this script")
-    print("4. the script will monitor for a blue 'join queue' button")
-    print("5. when found, it will automatically click it")
-    print()
-    print("configuration:")
-    print("- check interval: 0.1 seconds (faster detection)")
-    print("- ocr verification: enabled (more accurate)")
-    print()
-    print("press ctrl+c to stop at any time")
-    print("=" * 60)
-    print()
-
-    print("starting in 5 seconds... position your discord window now!")
+    print("starting in 5 seconds... switch to discord now!")
     for i in range(5, 0, -1):
         print(f"{i}...")
         time.sleep(1)
     print()
 
-    clicker = DiscordQueueClicker(check_interval=0.1, confidence=0.7, debug=True)
-    clicker.start_monitoring(
-        keywords=["join queue", "queue", "join", "enter queue"], use_ocr=True
-    )
+    template = load_template()
+    logging.info(f"template loaded: {template.shape[1]}x{template.shape[0]}px")
+
+    sct = mss.mss()
+    monitor = sct.monitors[1]
+    screen_size = pyautogui.size()
+    scale = monitor["width"] / screen_size.width
+    logging.info(f"screen {screen_size.width}x{screen_size.height}, scale {scale}")
+
+    pyautogui.PAUSE = 0.0
+    pyautogui.FAILSAFE = True
+
+    caffeinate = subprocess.Popen(["caffeinate", "-d"])
+    logging.info("monitoring for join queue button... ctrl+c to stop")
+
+    last_log = 0
+    try:
+        while True:
+            frame = sct.grab(monitor)
+            screenshot = cv2.cvtColor(np.array(frame), cv2.COLOR_BGRA2BGR)
+
+            match = find_button(screenshot, template)
+
+            now = time.time()
+            if now - last_log > 5:
+                if match:
+                    logging.info(f"button visible at ({match[0]}, {match[1]}) confidence={match[2]:.2f}")
+                else:
+                    logging.info("scanning... button not found")
+                last_log = now
+
+            if match:
+                cx, cy, conf = match
+                sx = int(cx * scale)
+                sy = int(cy * scale)
+                logging.info(f"clicking join queue at ({sx}, {sy}) conf={conf:.2f}")
+                subprocess.run(["osascript", "-e", 'tell application "Discord" to activate'], capture_output=True)
+                time.sleep(0.1)
+                pyautogui.moveTo(sx, sy, duration=0.05)
+                pyautogui.click()
+                logging.info("clicked!")
+                time.sleep(2)
+
+            time.sleep(0.1)
+
+    except KeyboardInterrupt:
+        logging.info("stopped")
+    finally:
+        caffeinate.terminate()
 
 
 if __name__ == "__main__":
